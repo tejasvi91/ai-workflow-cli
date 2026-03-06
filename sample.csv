@@ -1,0 +1,16 @@
+date,product,region,revenue,orders,customer_rating
+2025-01-01,Laptop,Europe,12000,25,4.5
+2025-01-02,Phone,Europe,8000,40,4.3
+2025-01-03,Tablet,Asia,5000,18,4.1
+2025-01-04,Laptop,Asia,15000,30,4.6
+2025-01-05,Phone,North America,9500,35,4.2
+2025-01-06,Tablet,Europe,4200,15,4.0
+2025-01-07,Laptop,North America,20000,50,4.7
+2025-01-08,Phone,Asia,7000,28,4.3
+2025-01-09,Tablet,Europe,4800,16,4.1
+2025-01-10,Laptop,Europe,30000,70,4.8
+2025-01-11,Phone,North America,11000,45,4.4
+2025-01-12,Tablet,Asia,3900,14,3.9
+2025-01-13,Laptop,Asia,17000,33,4.5
+2025-01-14,Phone,Europe,7600,29,4.2
+2025-01-15,Tablet,North America,4500,17,4.0
