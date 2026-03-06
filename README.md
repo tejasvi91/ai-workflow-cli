@@ -23,3 +23,23 @@ This is a showcase of engineering maturity in building maintainable AI systems.
 
 ## 📁 Project Structure
 
+```bash
+ai-workflow-engine/
+│
+├── main.py # Entry point for CLI workflow execution
+├── workflow.py # Workflow orchestration logic
+├── config.py # Configuration variables
+├── steps/ # Individual workflow step modules
+│ ├── data_loader.py
+│ ├── anomaly_detector.py
+│ ├── llm_step.py
+│ ├── validator.py
+│ └── logger.py
+├── traces/ # Logs and workflow traces
+├── sample.csv # Example input data
+├── requirements.txt # Python dependencies
+├── .gitignore
+└── README.md
+
+
+
