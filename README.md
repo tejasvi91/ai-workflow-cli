@@ -40,6 +40,27 @@ ai-workflow-engine/
 ├── requirements.txt # Python dependencies
 ├── .gitignore
 └── README.md
+```
 
+---
+
+## ⚡ Features
+
+1. **Step-based Workflow Execution**  
+   Each step is modular and reusable, allowing flexible orchestration.
+
+2. **Tool Abstraction**  
+   Steps interact with tools or APIs through clean interfaces.
+
+3. **Validation & Error Handling**  
+   JSON output validation and retry logic ensure reliability.
+
+4. **Trace Logging**  
+   Every workflow run is logged for debugging and auditability.
+
+5. **Clean Architecture**  
+   Modular backend design promotes maintainability and scalability.
+
+---
 
 
